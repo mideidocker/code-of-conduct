@@ -1,13 +1,15 @@
 ##前書き
 
-We are dedicated to providing a harassment­ free experience for everyone, and we do not tolerate harassment of participants in any form. We ask you to be considerate of others and behave professionally and respectfully to all other participants. 
-私たちは誰に対してもハラスメントの無い経験を提供することに従事し、メンバーに対する、いかなる種類のハラスメントも容認しません。全参加者に対し、お互いに対して思いやりを持ち、プロとして敬意を持った行動をして頂けることをお願い申し上げます。
+私たちは、誰に対してもハラスメントの無い環境を提供することに最善を尽くし、メンバーに対するいかなる種類のハラスメントも容認しません。参加者の皆さまに、メンバー全員対してお互いにプロとして敬意を持った言動をして頂けることをお願い申し上げます。この行動規範は、オンラインまたは直接対面でのコミュニケーションあるいは一対一の個人的なやりとりにおいて、それがコミュニティ範囲外での活動であっても、メンバーに対しその安全を脅かしたり悪影響を与える可能性があるとみなされた、容認されるべきではない言動に適用されます。これらのコミュニティガイドライン及び行動規範は、Docker, Incが主催、またはDocker, Inc施設内で行われるイベント（DockerCon、ミートアップ、ユーザグループなど）の出展者、講演者、スポンサー、スタッフ及びその他の全ての参加者に適用されます。
 
-This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members. 
-この行動規範は、オンラインまたは直接対面しての通信、あるいは一対一の個人的なやりとりといったコミュニティ範囲外での活動であっても、コミュニティメンバーに対して悪影響を与えその安全が脅かされるとみなされる、許されるべきではない言動に適用されます。
+多様性と包括性により、Dockerコミュニティは強固なものになります。私たちは、ありとあらゆる背景・経歴を持つ人々の参加の奨励に最善を尽くすことを強調します。
 
+私たちの目標は、経験、ジェンダー・アイデンティティーと表現、性的指向、しょう害、容姿、人種、民族性、年齢、宗教、国籍、または適用法に基づき保護されているその他の事項に拘ることなく、安全で友好的なDockerコミュニティを維持していくことです。
 
-Exhibitors, speakers, sponsors, staff and all other attendees at events organized by Docker, Inc (DockerCon, meetups, user groups) or held at Docker, Inc facilities are subject to these Community Guidelines and Code of Conduct.
-Diversity and inclusion make the Docker community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
-
-Our goal is to maintain a safe, helpful and friendly Docker community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other protected categories under applicable law.
+##求められる行動
+- プロフェッショナルである事。
+- 責任を持つ。
+- 温かく迎える。
+- 親切にする。
+- 他の視点やアイディアを尊重する。
+- お互いを支持し合う。
